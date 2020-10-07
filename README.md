@@ -49,13 +49,13 @@ A lot of data structures can be used in this project. I chose `dict()` for the s
 
 Here a self-evaluation with the following example:
 
-![](images/Self example.PNG "My Example")
+![](images/Self_example.PNG "My Example")
 
-![](images/Self evaluation.PNG "My Example")
+![](images/Self_evaluation.PNG "My Example")
 
 Here the output of comparaison of my expexted status with all data test expected status:
 
-![](images/Data test.PNG "Results")
+![](images/Data_test.PNG "Results")
 
 
 
