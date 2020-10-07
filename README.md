@@ -45,6 +45,14 @@ A lot of data structures can be used in this project. I chose `dict()` for the s
 
 ### Fisrt Evaluation
 
+![Evaluation](Evaluation.PNG "Evaluations")
+
+Here a self-evaluation with the following example:
+![My Example](Self example.PNG "My Example")
+
+Here the output of comparaison of my expexted status with all data test expected status:
+![Results](Data test.PNG "Results")
+
 
 
 
