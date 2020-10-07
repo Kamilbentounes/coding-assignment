@@ -10,6 +10,8 @@ A simple method to make more open class flexibility for detection problems.
 
 * Argparse
 
+Since it was all hard coding, all of these requirements are already built in Python.
+
 # Setup 
 
 `git clone https://github.com/Kamilbentounes/coding-assignment.git` 
