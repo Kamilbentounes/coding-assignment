@@ -13,6 +13,7 @@ A simple method to make more open class flexibility for detection problems.
 # Setup 
 
 `git clone https://github.com/Kamilbentounes/coding-assignment.git` 
+
 `cd coding-assignment`
 
 # Usage
